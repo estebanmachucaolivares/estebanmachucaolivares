@@ -1,5 +1,5 @@
 
-# Sobre Mi
+#Esteban Machuca
 
 ¡Hola! Soy Esteban Machuca, ingeniero informático especializado en el desarrollo de aplicaciones móviles Android con lenguajes Kotlin <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="15">  y Java. Actualmente, trabajo como desarrollador móvil en terminales de pago (POS) Android IM30 y A920 de la marca PAX.
 
@@ -12,7 +12,7 @@ A lo largo de mi carrera, he trabajado en proyectos desafiantes, implementando s
 
 ## Conocimientos
 
-- Lenguajes de programación: Android, Java y Kotlin.
+- Lenguajes de programación: Android, Java <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="15"> y Kotlin <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="15">.
 - Arquitecturas MVC y MVVM.
 - Principios SOLID y Clean Architecture.
 - EMV
