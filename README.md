@@ -1,5 +1,5 @@
 
-![Fondo de pantalla]([ruta-de-tu-imagen.jpg](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ba16d953-c4ae-4eb0-ae9c-9f911f357e6c/ultimate-material-lollipop-collection.png)) 
+![Fondo de pantalla](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ba16d953-c4ae-4eb0-ae9c-9f911f357e6c/ultimate-material-lollipop-collection.png) 
 
 # Sobre Mi
 
