@@ -18,3 +18,5 @@ A lo largo de mi carrera, he trabajado en proyectos desafiantes, implementando s
 - EMV
 - ISO 8583
 - BASE24
+
+<!-- ejemplo de gregar una imagen como icono, debo agregar directorio y agregar un svg luego la ruta correspondiente en src <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> -->
