@@ -1,3 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ba16d953-c4ae-4eb0-ae9c-9f911f357e6c/ultimate-material-lollipop-collection.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+</head>
+<body> 
 # Sobre Mi
 
 ¡Hola! Soy Esteban Machuca, ingeniero informático especializado en el desarrollo de aplicaciones móviles Android con lenguajes Kotlin y Java. Actualmente, trabajo como desarrollador móvil en terminales de pago (POS) Android IM30 y A920 de la marca PAX.
@@ -25,3 +38,6 @@ A lo largo de mi carrera, he trabajado en proyectos desafiantes, implementando s
 - Conocimientos en estándar EMV e ISO 8583.
 - Implementación de soluciones innovadoras y mejoras en la experiencia del usuario.
 - Enfoque en el liderazgo y el trabajo en equipo.
+
+</body>
+</html>
