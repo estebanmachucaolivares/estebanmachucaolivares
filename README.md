@@ -1,6 +1,4 @@
 
-![Fondo de pantalla](https://www.linkedin.com/in/esteban-machuca/overlay/background-image/) 
-
 # Sobre Mi
 
 ¡Hola! Soy Esteban Machuca, ingeniero informático especializado en el desarrollo de aplicaciones móviles Android con lenguajes Kotlin y Java. Actualmente, trabajo como desarrollador móvil en terminales de pago (POS) Android IM30 y A920 de la marca PAX.
