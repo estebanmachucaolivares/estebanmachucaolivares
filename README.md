@@ -21,7 +21,7 @@ Desarrollador Android (Kotlin) / 08-2022 a Actualidad:
 •	Integración continua con Jenkins  
 •	BASE 24  
 
-Desarrollador Full Stack (javascript - PHP) / 12-2019 a 08-2022
+Desarrollador Full Stack (javascript - PHP) / 12-2019 a 08-2022.
 
 ## Conocimientos
 
