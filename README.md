@@ -9,33 +9,33 @@ A lo largo de mi carrera, he trabajado en proyectos desafiantes, implementando s
 
 Desarrollador Android (Kotlin) / 08-2022 a Actualidad: 
 
-•	Desarrollo móvil Android con lenguaje Kotlin.
-•	Trabajo con Smart POS Android IM30 y A920 marca PAX.
-•	EMV e ISO 8583.
-•	Administración de terminales con Paxtore.
-•	SDK y librerías de PAX
-•	Proceso de certificación de marcas.
-•	Metodología Ágil SCRUM.
-•	Jira y Bitbucket.
-•	Pruebas unitarias
-•	Integración continua con Jenkins
+•	Desarrollo móvil Android con lenguaje Kotlin. &ensp;
+•	Trabajo con Smart POS Android IM30 y A920 marca PAX. &ensp;
+•	EMV e ISO 8583. &ensp;
+•	Administración de terminales con Paxtore. &ensp;
+•	SDK y librerías de PAX &ensp;
+•	Proceso de certificación de marcas. &ensp;
+•	Metodología Ágil SCRUM. &ensp;
+•	Jira y Bitbucket. &ensp;
+•	Pruebas unitarias &ensp;
+•	Integración continua con Jenkins &ensp;
 •	BASE 24
 
 Desarrollador Full Stack (javascript - PHP) / 12-2019 a 08-2022
 
 ## Conocimientos
 
-Lenguajes de Programación
+Lenguajes de Programación:
 •	Java
 •	Kotlin
 
 Programación orientada a
- objetos
+ objetos:
 •	Principios SOLID
 •	Clean Code
 •	Clear Architecture
 
-Android Jetpack
+Android Jetpack:
 •	Jetpack Compose
 •	Navigation
 •	Room
